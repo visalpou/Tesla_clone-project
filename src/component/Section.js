@@ -20,8 +20,7 @@ function Section({title,description,leftBtnText,rightBtnText,backgroundImg}) {
                     <RightButton>{rightBtnText}</RightButton>
                 }
             </ButtonGroup>
-        </Fade>
-        
+        </Fade>      
         <Icon>
             <DownArrow src='/img/down-arrow.svg' />     
         </Icon>
